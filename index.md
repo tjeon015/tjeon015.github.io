@@ -24,5 +24,5 @@ adding in another photo
 
 ![another photo alt text](https://tjeon015.github.io/githubphoto.PNG)
 
-Adding in a link: [link to google](google.com)
+Adding in a link: [link to google](https://google.com)
 

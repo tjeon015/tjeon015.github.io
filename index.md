@@ -17,5 +17,4 @@ This is an ordered list:
 3. 3rd
 
 Adding in a figure.
-![this is alt-text for this figure]
-(https://uiuc-ischool-dataviz.github.io/spring2019online/week04/data/littleCorgiInHat.png)
+![this is alt-text for this figure] (https://uiuc-ischool-dataviz.github.io/spring2019online/week04/data/littleCorgiInHat.png)

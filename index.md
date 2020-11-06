@@ -17,4 +17,12 @@ This is an ordered list:
 3. 3rd
 
 Adding in a figure.
+
 ![this is alt-text for this figure](https://uiuc-ischool-dataviz.github.io/spring2019online/week04/data/littleCorgiInHat.png)
+
+adding in another photo
+
+![another photo alt text](https://tjeon015.github.io/githubphoto.PNG)
+
+Adding in a link: [link to google](google.com)
+
